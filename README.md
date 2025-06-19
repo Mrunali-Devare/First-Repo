@@ -1,3 +1,4 @@
 # First-Repo
-This is my first Git Repository
-author - Mrunali Devare
+This is my first Git Repository.
+<br>
+Author - Mrunali Devare
